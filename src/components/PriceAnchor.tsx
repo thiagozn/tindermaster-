@@ -3,7 +3,7 @@ import { X } from 'lucide-react';
 
 const PriceAnchor = () => {
   return (
-    <section className="py-16 px-4 bg-gradient-to-r from-red-500 via-pink-500 to-orange-500">
+    <section id="price-section" className="py-16 px-4 bg-gradient-to-r from-red-500 via-pink-500 to-orange-500">
       <div className="max-w-4xl mx-auto text-center">
         <h2 className="text-4xl font-bold text-white mb-8">
           Quanto vale ter sucesso no Tinder?

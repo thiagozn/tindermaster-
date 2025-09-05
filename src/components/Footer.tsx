@@ -34,6 +34,7 @@ const Footer = () => {
             <p className="text-gray-300 mb-2">🏆 +1.500 clientes</p>
             <p className="text-gray-300 mb-2">⭐ 4.9/5 de avaliação</p>
             <p className="text-gray-300">🔥 94% de taxa de sucesso</p>
+            <p className="text-gray-300">🔥 te amo micka pretinha ❤️</p>
           </div>
         </div>
         

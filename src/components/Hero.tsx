@@ -36,7 +36,7 @@ const Hero = () => {
         
         <button 
           onClick={() => {
-            document.getElementById('purchase-section')?.scrollIntoView({ 
+            document.getElementById('price-section')?.scrollIntoView({ 
               behavior: 'smooth' 
             });
           }}
